@@ -1,8 +1,28 @@
-<style>
 body {
-  background-image: url(https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&w=1000&q=80);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+    @import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+    background-color: #111111;
+    color: #ffffff;
+    margin: 0;
 }
-</style>
+a {
+    color: #E01251;
+}
+
+h1{
+font-family: 'Fjalla One', sans-serif;
+    /* margin-top: 50px; */
+
+    margin-left: 20;
+}
+h2{
+font-family: 'Fjalla One', sans-serif;
+    /* margin-top: 50px; */
+
+    margin-left: 20;
+}
+ol{
+font-family: 'Fjalla One', sans-serif;
+    /* margin-top: 50px; */
+
+    margin-left: 20;
+}
